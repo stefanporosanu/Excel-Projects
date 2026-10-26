@@ -118,3 +118,15 @@ This project formed part of practical training focused on developing the spreads
 ### 🚀 Skills Demonstrated
 
 `Excel` • `Data Analysis` • `PivotTables` • `VLOOKUP` • `Data Visualisation` • `Formulas` • `Data Cleaning` • `Filtering` • `Sorting` • `Sales Analysis`
+
+<img width="368" height="131" alt="image" src="https://github.com/user-attachments/assets/d49af79c-8a00-41db-a95f-a987664ff65e" />
+
+<img width="316" height="107" alt="image" src="https://github.com/user-attachments/assets/096c8d31-0b29-437f-9f8e-b37e98f0227c" />
+
+<img width="332" height="90" alt="image" src="https://github.com/user-attachments/assets/ced8e69d-8bb8-495e-98e9-c216a67a0a48" />
+
+<img width="332" height="200" alt="image" src="https://github.com/user-attachments/assets/7510ca5d-db69-43d6-949b-069378632eb3" />
+
+<img width="332" height="200" alt="image" src="https://github.com/user-attachments/assets/a32ba96b-c6f8-41a8-acf6-f0da4af46cab" />
+
+<img width="332" height="200" alt="image" src="https://github.com/user-attachments/assets/ed5c0da8-159e-45bc-b1ab-291d1dbac927" />
